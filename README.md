@@ -12,7 +12,7 @@ The code snippets are in the same scope as the documents, majority of which are 
 
 ## Sitemap
 
-Here are some of my projects with brief introduction, for more information, you can just **follow the links**.  
+Here are some of my projects with brief introduction, for more information, you can just <font color="blue">navigate to each project through the links below.</font>.  
 
 ### [mockingjay]
 There are all my documents covering topics such as Java SE/Java EE, big data, algorithm and etc, as well as my code snippets, which are not in format of compilable project.
