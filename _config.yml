@@ -1,6 +1,10 @@
 theme: jekyll-theme-architect
 
+title: Dio's outerhaven
+description: On the road
+
+show_downloads: true
+# google_analytics:
+
 plugins:
    - jekyll-feed
-
-sidebar: false
