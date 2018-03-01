@@ -2,3 +2,5 @@ theme: jekyll-theme-architect
 
 plugins:
    - jekyll-feed
+
+sidebar: false
