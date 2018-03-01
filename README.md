@@ -1,6 +1,6 @@
 # Welcome to Dio's Homepage
 
-__This is my homepage, it now has some technical documents and code snippets. It is still under construction, more are being added, in this sense, it is on the road, and it never ends. __
+<h2>This is my homepage, it now has some technical documents and code snippets. It is still under construction, more are being added, in this sense, it is on the road, and it never ends. </h2>
 
 It was born on March 1st, 2018, however, most of its content were added since a year ago. 
 
