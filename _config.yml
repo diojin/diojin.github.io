@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 
-gems:
+plugins:
    - jekyll-feed
