@@ -8,3 +8,6 @@ show_downloads: true
 
 plugins:
    - jekyll-feed
+
+github:
+  is_project_page: false
