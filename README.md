@@ -1,10 +1,10 @@
 # Welcome to Dio's Homepage
 
-**This is my homepage, it now has some technical documents and code snippets. It is still under construction, more are being added, in this sense, it is on the road, and it never ends. **
+`This is my homepage, it now has some technical documents and code snippets. It is still under construction, more are being added, in this sense, it is on the road, and it never ends. `
 
-It was born today,  March 1st, 2018, however, most of its content were added since a year ago. 
+It was born on March 1st, 2018, however, most of its content were added since a year ago. 
 
-The documents cover many fields in Java EE, big data, algorithms and etc, as well as some materials quoted from books I've read, besides, there are many code snippets embedded in them, many of which are either reusable or later reference.
+The documents cover many fields in Java EE, big data, algorithms and etc, as well as some materials quoted from books I've read, besides, there are many code snippets embedded in them, many of which are either reusable or for later reference.
 
 The code snippets are in the same scope as the documents, majority of which are sample codes from other books as of now, and some algorithms I practiced. There are still a lot of codes I didn't sort out yet, I will try to add some valuable ones, as well as new interesting codes later. 
 
@@ -12,9 +12,8 @@ The code snippets are in the same scope as the documents, majority of which are 
 
 Here are some of my projects with brief introduction, for more information, you can just follow the link.  
 
-### mockingjay
-**URL**: **[mockingjay] **  
-
+### [mockingjay] mockingjay
+**URL**: [**mockingjay**]   
 
     
 
