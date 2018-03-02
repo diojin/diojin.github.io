@@ -1,4 +1,4 @@
-# Welcome to Dio's Homepage
+# Welcome to my Homepage
 
 <b>This is my homepage, it now has some technical documents and code snippets. It is still under construction, more are being added, in this sense, it is on the road, and it never ends. </b>
 
@@ -15,7 +15,7 @@ The code snippets are in the same scope as the documents, majority of which are 
 Here are some of my projects with brief introduction, for more information, you can just [navigate to each project through the links below](#mockingjay).
 
 ### [mockingjay]
-There are all my documents covering topics such as Java SE/Java EE, big data, algorithm and etc, as well as my code snippets, which are not in format of compilable project.
+There are all my documents covering topics such as Java SE/Java EE, big data, algorithm and etc, as well as my code snippets, which are not in format of compiled project.
 
 ### [doodles-scala]
 There are some scala sample codes, as well as algorithms on sorting, tree, graph, string, and etc. 
@@ -25,7 +25,7 @@ This is a project collections, contains 4 projects
 * doodles-spring
 * doodles-hibernate
 * doodles-scripts
-    There are perl, shell scripts, as well as design pattern writen in UML diagram.
+    There are perl, shell scripts, as well as design pattern written in UML diagram.
 * doodles-gemfire
 
 ### [doodles-python]

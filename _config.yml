@@ -1,4 +1,4 @@
-title: Dio's outerhaven
+title: Dio's homepage
 description: On the road
 
 # google_analytics:
@@ -8,6 +8,6 @@ plugins:
 
 theme: jekyll-theme-architect
 # theme specific
-show_downloads: false
+show_downloads: true
 github:
   is_project_page: false
