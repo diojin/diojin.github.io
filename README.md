@@ -32,7 +32,7 @@ This is a project collections, contains 4 projects
 There are some algorithms written in python, including sorting, tree, graph, string, and etc. 
 
 ---
-[mockingjay]:https://github.com/diojin/mockingjay "my documents and ad hoc code snippets"
+[mockingjay]:https://diojin.github.io/mockingjay "my documents and ad hoc code snippets"
 [doodles-scala]:https://github.com/diojin/doodles-scala "my scala sample codes and some algorithms"
 [doodles]:https://github.com/diojin/doodles "codes in spring, gemfire, shell & perl scripts, and uml of design pattern"
 [doodles-python]:https://github.com/diojin/doodles-python "python codes"
