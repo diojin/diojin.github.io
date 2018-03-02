@@ -33,6 +33,6 @@ There are some algorithms written in python, including sorting, tree, graph, str
 
 ---
 [mockingjay]:https://diojin.github.io/mockingjay "my documents and ad hoc code snippets"
-[doodles-scala]:https://github.com/diojin/doodles-scala "my scala sample codes and some algorithms"
-[doodles]:https://github.com/diojin/doodles "codes in spring, gemfire, shell & perl scripts, and uml of design pattern"
-[doodles-python]:https://github.com/diojin/doodles-python "python codes"
+[doodles-scala]:https://diojin.github.io/doodles-scala "my scala sample codes and some algorithms"
+[doodles]:https://diojin.github.io/doodles "codes in spring, gemfire, shell & perl scripts, and uml of design pattern"
+[doodles-python]:https://diojin.github.io/doodles-python "python codes"
