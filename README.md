@@ -15,7 +15,7 @@ The code snippets are in the same scope as the documents, majority of which are 
 Here are some of my projects with brief introduction, for more information, you can just [navigate to each project through the links below](#mockingjay).
 
 ### [mockingjay]
-There are all my documents covering topics such as Java SE/Java EE, big data, algorithm and etc, as well as my code snippets, which are not in format of compiled project.
+There are all my documents covering topics such as Java SE/Java EE, big data, multi-threading, database, algorithm and etc, as well as my code snippets. There are quite some documents, and some of them contains topics such as  performance tuning.
 
 ### [doodles-scala]
 There are some scala sample codes, as well as algorithms on sorting, tree, graph, string, and etc. 
