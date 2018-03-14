@@ -18,7 +18,7 @@ Here are some of my projects with brief introduction, for more information, you 
 There are all my documents covering topics such as Java SE/Java EE, big data, multi-threading, database, algorithm and etc, as well as my code snippets. There are indeed quite some documents, and some of them contains topics such as  performance tuning.
 
 ### [doodles-scala]
-There are some scala sample codes, as well as algorithms on sorting, tree, graph, string, and etc. 
+There are some scala sample codes, some algorithm codes on sorting, tree, graph, string, and etc,  as well as some codes and practices quoted from a real big data project.
 
 ### [doodles]
 This is a project collections, contains 4 projects
